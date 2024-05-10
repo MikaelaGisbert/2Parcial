@@ -1,4 +1,5 @@
 import React from "react";
+import "TextoEjercicio.css";
 
 const TextoEjercicio = () =>{
 
@@ -9,3 +10,4 @@ const TextoEjercicio = () =>{
         </div>
     );
 }
+export default TextoEjercicio;
