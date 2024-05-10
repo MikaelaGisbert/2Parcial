@@ -1,5 +1,5 @@
 import React from "react";
-import "BotonPlay.css";
+import './BotonPlay.css'
 
 const BotonPlay = () =>{
     return (

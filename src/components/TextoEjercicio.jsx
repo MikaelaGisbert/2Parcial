@@ -1,5 +1,5 @@
 import React from "react";
-import "TextoEjercicio.css";
+import './TextoEjercicio.css'
 
 const TextoEjercicio = () =>{
 
